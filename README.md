@@ -1,12 +1,11 @@
-<!-- GIF -->
 <div align="center">
-  <img src="https://gifdb.com/images/high/chainsaw-man-denji-and-power-ajhh6se9n3qdp654.gif" width="520" alt="Chainsaw Man"/>
+  <img src="./travis-scott-travis-scott-apology.gif" width="400" alt="Travis Scott"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF2A2A&center=true&vCenter=true&width=700&lines=Nuno+Pentagna;Computer+Science+Student;Always+Learning+Something+New" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF2A2A&center=true&vCenter=true&width=700&lines=Nuno+Pentagna;Computer+Science+Student;Always+Learning+Something+New" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -88,11 +87,9 @@ Tenho interesse em desenvolvimento de software, resolução de problemas e em ap
 ---
 
 ### Formação
-
-| Curso | Instituição | Status |
-|:---|:---|:---:|
-| Ciência da Computação | Estácio | Em andamento |
-| Cursos de Programação | Alura | Cursando |
+Curso,Instituição,Status
+Ciência da Computação,Estácio,Em andamento
+Cursos de Programação,Alura,Cursando
 
 ---
 
@@ -109,7 +106,5 @@ Quer falar comigo? Me chama no email:
 ---
 
 <div align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/11/chainsaw-man-gif-5.gif" width="220" alt="Chainsaw Man"/>
-  <br/><br/>
-  <b>Obrigado por visitar meu perfil!</b>
+  <img src="./fih-fish.gif" width="400" alt="fih"/>
 </div>
