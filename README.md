@@ -1,66 +1,90 @@
-<!--
-  Nuno Pentagna / profile README
-  Visual direction: Night City terminal — restrained neon, dark industrial palette.
--->
-
 <div align="center">
 
-# NUNO PENTAGNA
+<img src="./assets/night-city-banner.svg" width="100%" alt="Nuno Pentagna — Night City personal system"/>
 
-`NC-773 // RIO DE JANEIRO, BR`
-
-**Ciência da Computação · Estácio**
-
-*Gosto de entender como as coisas funcionam — do código às peças dentro de um gabinete.*
+[⌁ ABOUT](#-sobre)　//　[▣ PROJECTS](#-projetos)　//　[⌘ TOOLKIT](#-na-bancada)　//　[↗ CONTACT](#-contato)
 
 </div>
 
 ---
 
+### ▌ SOBRE // ABOUT ME
+
+Fala! Sou estudante de **Ciência da Computação na Estácio** e estou construindo minha jornada na programação. Gosto de aprender na prática: escrever código, testar, errar, entender o motivo e tentar de novo.
+
+Também curto hardware. Já montei computadores e fiz manutenção para familiares e amigos — então meu interesse por tecnologia não fica só na tela.
+
 ```text
-┌─ NIGHT CITY / PERSONAL LOG ────────────────────────────────────────┐
-│                                                                    │
-│  STATUS   : aprendendo, construindo e quebrando a cabeça           │
-│  FOCO     : lógica · programação · projetos práticos               │
-│  SETUP    : código, café e tentativa e erro                         │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
+┌─ CURRENT STATUS ──────────────────────────────────────────┐
+│  LOCATION   Rio de Janeiro, BR                            │
+│  STUDY      Computer Science                               │
+│  FOCUS      Programming · Logic · Practical projects       │
+│  SIDE QUEST Hardware · PC building · Troubleshooting       │
+└───────────────────────────────────────────────────────────┘
 ```
 
-## // QUEM ESTÁ POR TRÁS DO TERMINAL
+### ▌ PROJETOS // SELECTED BUILDS
 
-Sou estudante de **Ciência da Computação na Estácio**. Estou construindo minha base em programação na prática, um projeto de cada vez, e complementando os estudos com a **Alura**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Também monto computadores e faço manutenção para familiares e amigos. Curto tanto descobrir por que um programa não funciona quanto encontrar aquele componente que está dando problema no PC.
+**01 / YouTube Video Analyzer**
 
-Não estou aqui para fingir que sei tudo. Prefiro mostrar o que estou estudando, o que já consegui fazer e o que ainda preciso aprender.
+Ferramenta em Python que trabalha com áudio de vídeos, transcrição via Whisper e geração de resumos com IA.
 
-## // PROJETOS NO RADAR
+[↗ abrir repositório](https://github.com/ncorreia773-netizen/youtube-video-analyzer)
 
-| Projeto | O que tem por aqui |
-| --- | --- |
-| [YouTube Video Analyzer](https://github.com/ncorreia773-netizen/youtube-video-analyzer) | Experimento em Python para baixar áudio, transcrever vídeos com Whisper e gerar resumos com ferramentas de IA. |
-| [Sistema de Controle de Notas](https://github.com/ncorreia773-netizen/Trabalho-Sistema-de-Controle-de-Notas) | Projeto em C para cadastrar alunos, calcular médias e classificar resultados. |
-| [Projeto Alura](https://github.com/ncorreia773-netizen/projeto-alura) | Uma calculadora em Python feita durante os estudos na Alura. |
+</td>
+<td width="50%" valign="top">
 
-## // FERRAMENTAS E ESTUDOS
+**02 / Sistema de Controle de Notas**
 
-`C` · `Python` · `Git` · `GitHub` · `VS Code`
+Projeto em C para cadastro de alunos, cálculo de médias e classificação de resultados.
 
-No momento, meu foco é fortalecer lógica de programação, algoritmos e a prática de desenvolvimento.
+[↗ abrir repositório](https://github.com/ncorreia773-netizen/Trabalho-Sistema-de-Controle-de-Notas)
 
-## // FORA DO CÓDIGO
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-- Montagem e manutenção de computadores.
-- Hardware e tecnologia no geral.
-- Aprender fazendo — e entender o erro antes de só copiar a solução.
+**03 / Projeto Alura**
 
-## // CONTATO
+Uma calculadora em Python desenvolvida durante os estudos.
 
-**E-mail:** [ncorreia773@gmail.com](mailto:ncorreia773@gmail.com)
+[↗ abrir repositório](https://github.com/ncorreia773-netizen/projeto-alura)
+
+</td>
+</tr>
+</table>
+
+### ▌ NA BANCADA // TOOLKIT
 
 <div align="center">
 
-`CONNECTION ESTABLISHED // SEE YOU IN THE NEXT COMMIT`
+<img src="https://img.shields.io/badge/C-11111b?style=for-the-badge&logo=c&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Python-11111b?style=for-the-badge&logo=python&logoColor=ffcf5a"/>
+<img src="https://img.shields.io/badge/Git-11111b?style=for-the-badge&logo=git&logoColor=ff3b83"/>
+<img src="https://img.shields.io/badge/GitHub-11111b?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/VS_Code-11111b?style=for-the-badge&logo=visualstudiocode&logoColor=00e5ff"/>
+
+</div>
+
+No momento, estou fortalecendo minha base em lógica de programação, algoritmos e desenvolvimento. Não vou listar ferramenta que ainda não sei usar direito — conforme entrar na bancada, entra aqui.
+
+### ▌ FORA DO TERMINAL
+
+- Montagem e manutenção de computadores.
+- Hardware e troubleshooting.
+- Tecnologia, games e aprender fuçando.
+
+### ▌ CONTATO // OPEN CHANNEL
+
+<div align="center">
+
+**E-mail:** [ncorreia773@gmail.com](mailto:ncorreia773@gmail.com)
+
+<sub>✦ BUILT IN RIO · POWERED BY CURIOSITY · ALWAYS IN PROGRESS ✦</sub>
 
 </div>
