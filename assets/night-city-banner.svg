@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090b16"/><stop offset=".55" stop-color="#171025"/><stop offset="1" stop-color="#071b25"/></linearGradient>
+ <linearGradient id="neon" x2="1"><stop stop-color="#ff2d75"/><stop offset=".52" stop-color="#bd45ff"/><stop offset="1" stop-color="#00e5ff"/></linearGradient>
+ <linearGradient id="sun" x2="0" y2="1"><stop stop-color="#ffcf5a"/><stop offset="1" stop-color="#ff3d76"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#4eeaff" stroke-opacity=".10" stroke-width="1"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+<circle cx="970" cy="142" r="94" fill="url(#sun)" opacity=".92"/>
+<path d="M0 278 70 235 120 260 180 190 245 245 305 166 365 238 425 202 490 252 550 180 610 235 670 166 735 250 800 198 860 244 920 177 980 230 1040 180 1100 240 1200 185V360H0Z" fill="#0a101c"/>
+<path d="M0 300 90 266 145 285 215 224 275 282 350 215 420 286 490 240 560 292 650 220 715 286 790 232 860 290 940 220 1015 285 1090 230 1200 280V360H0Z" fill="#11182a" stroke="#ff3b83" stroke-opacity=".45"/>
+<g fill="#00e5ff" opacity=".65"><path d="M174 195h5v38h-5zM305 166h5v65h-5zM547 180h5v48h-5zM670 166h5v68h-5zM918 177h5v51h-5zM1097 180h5v57h-5z"/></g>
+<g stroke="url(#neon)" stroke-width="2" fill="none" filter="url(#glow)"><path d="M35 42h110M35 42v34M1165 42h-110M1165 42v34M35 318h110M35 318v-34M1165 318h-110M1165 318v-34"/><path d="M790 40h270M790 48h150" opacity=".6"/></g>
+<text x="72" y="100" fill="#00e5ff" font-family="monospace" font-size="17" letter-spacing="5">NC-773  /  PERSONAL SYSTEM</text>
+<text x="66" y="185" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="900" letter-spacing="2">NUNO</text>
+<text x="68" y="250" fill="url(#neon)" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="900" letter-spacing="2">PENTAGNA</text>
+<path d="M72 271h475" stroke="#ff3b83" stroke-width="3"/><text x="72" y="302" fill="#b8c6d9" font-family="monospace" font-size="17" letter-spacing="3">CODE // HARDWARE // LEARNING BY BUILDING</text>
+<text x="1125" y="305" text-anchor="end" fill="#00e5ff" font-family="monospace" font-size="13">RIO DE JANEIRO · BR</text>
+</svg>
