@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080b14"/><stop offset=".55" stop-color="#111426"/><stop offset="1" stop-color="#210d25"/></linearGradient>
+  <linearGradient id="neon" x2="1"><stop stop-color="#ff2d75"/><stop offset=".52" stop-color="#ff4f3a"/><stop offset="1" stop-color="#ffc857"/></linearGradient>
+  <linearGradient id="cyan" x2="1"><stop stop-color="#31e6df"/><stop offset="1" stop-color="#7c7cff"/></linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8b91b5" stroke-opacity=".12" stroke-width="1"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+<path d="M0 280L65 280V205H102V242H135V170H182V280H215V220H260V280H295V145H337V280H370V196H415V280H455V225H492V280H535V155H575V280H610V205H650V280H685V175H730V280H768V220H810V280H850V130H895V280H930V196H972V280H1008V165H1050V280H1090V210H1130V280H1200V360H0Z" fill="#090c17" stroke="#252943" stroke-width="2"/>
+<g fill="#ff3d79" opacity=".8"><path d="M145 184h8v12h-8zM155 184h8v12h-8zM305 158h8v12h-8zM545 168h8v12h-8zM860 146h8v12h-8zM1018 180h8v12h-8z"/></g>
+<g fill="#31e6df" opacity=".85"><path d="M220 234h7v12h-7zM230 234h7v12h-7zM390 210h7v12h-7zM700 190h7v12h-7zM940 210h7v12h-7zM1110 224h7v12h-7z"/></g>
+<path d="M0 286H1200" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
+<path d="M48 56h110M48 56v28M1152 56h-110M1152 56v28" stroke="#31e6df" stroke-width="2" fill="none"/>
+<text x="64" y="112" fill="#31e6df" font-family="monospace" font-size="16" letter-spacing="5">NIGHT CITY // PERSONAL NODE 773</text>
+<text x="60" y="190" fill="#f5f2f7" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="800" letter-spacing="2">NUNO PENTAGNA</text>
+<text x="66" y="228" fill="#ff4f79" font-family="monospace" font-size="18" letter-spacing="4">COMPUTER SCIENCE STUDENT · BUILDER · HARDWARE ENTHUSIAST</text>
+<rect x="64" y="252" width="310" height="3" fill="url(#neon)"/>
+<text x="66" y="316" fill="#b7bed8" font-family="monospace" font-size="13" letter-spacing="3">RIO DE JANEIRO, BR  /  CONNECTED</text>
+<text x="1135" y="316" text-anchor="end" fill="#31e6df" font-family="monospace" font-size="13">NC-773 ▸</text>
+<g opacity=".35"><path d="M0 18H1200M0 22H1200M0 26H1200" stroke="#ff3d79"/></g>
+</svg>
