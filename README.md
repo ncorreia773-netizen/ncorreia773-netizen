@@ -1,70 +1,66 @@
+<!--
+  Nuno Pentagna / profile README
+  Visual direction: Night City terminal — restrained neon, dark industrial palette.
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:0A1128&height=200&section=header&text=Nuno%20Pentagna&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=58&descSize=18" width="100%" alt="Header Banner"/>
 
-  <br/>
-  <img width="200" alt="travis scott" src="https://github.com/user-attachments/assets/1f07558e-4c54-459e-ae3d-2c62019b397f" />
-  <br/><br/>
+# NUNO PENTAGNA
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvendo+projetos+e+estudando;Explorando+novas+tecnologias" alt="Typing SVG"/>
+`NC-773 // RIO DE JANEIRO, BR`
 
-  <br/><br/>
+**Ciência da Computação · Estácio**
 
-  <a href="https://github.com/ncorreia773-netizen">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=0066FF" alt="GitHub"/>
-  </a>
-  <a href="mailto:ncorreia773@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+*Gosto de entender como as coisas funcionam — do código às peças dentro de um gabinete.*
+
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+```text
+┌─ NIGHT CITY / PERSONAL LOG ────────────────────────────────────────┐
+│                                                                    │
+│  STATUS   : aprendendo, construindo e quebrando a cabeça           │
+│  FOCO     : lógica · programação · projetos práticos               │
+│  SETUP    : código, café e tentativa e erro                         │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+```
 
-Fala aí! Sou o **Nuno Pentagna**, graduando em Ciência da Computação e apaixonado por tecnologia e desenvolvimento de software.
+## // QUEM ESTÁ POR TRÁS DO TERMINAL
 
-- 🎓 Cursando **Ciência da Computação** na Estácio
-- 📚 Aprimorando conhecimentos através da Alura
-- 💻 Focado em lógica, algoritmos e construção de projetos práticos
+Sou estudante de **Ciência da Computação na Estácio**. Estou construindo minha base em programação na prática, um projeto de cada vez, e complementando os estudos com a **Alura**.
 
----
+Também monto computadores e faço manutenção para familiares e amigos. Curto tanto descobrir por que um programa não funciona quanto encontrar aquele componente que está dando problema no PC.
 
-### 🛠️ Tecnologias e Ferramentas
+Não estou aqui para fingir que sei tudo. Prefiro mostrar o que estou estudando, o que já consegui fazer e o que ainda preciso aprender.
+
+## // PROJETOS NO RADAR
+
+| Projeto | O que tem por aqui |
+| --- | --- |
+| [YouTube Video Analyzer](https://github.com/ncorreia773-netizen/youtube-video-analyzer) | Experimento em Python para baixar áudio, transcrever vídeos com Whisper e gerar resumos com ferramentas de IA. |
+| [Sistema de Controle de Notas](https://github.com/ncorreia773-netizen/Trabalho-Sistema-de-Controle-de-Notas) | Projeto em C para cadastrar alunos, calcular médias e classificar resultados. |
+| [Projeto Alura](https://github.com/ncorreia773-netizen/projeto-alura) | Uma calculadora em Python feita durante os estudos na Alura. |
+
+## // FERRAMENTAS E ESTUDOS
+
+`C` · `Python` · `Git` · `GitHub` · `VS Code`
+
+No momento, meu foco é fortalecer lógica de programação, algoritmos e a prática de desenvolvimento.
+
+## // FORA DO CÓDIGO
+
+- Montagem e manutenção de computadores.
+- Hardware e tecnologia no geral.
+- Aprender fazendo — e entender o erro antes de só copiar a solução.
+
+## // CONTATO
+
+**E-mail:** [ncorreia773@gmail.com](mailto:ncorreia773@gmail.com)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,mysql,git,github,vscode&theme=dark" alt="Tecnologias"/>
-</div>
 
----
+`CONNECTION ESTABLISHED // SEE YOU IN THE NEXT COMMIT`
 
-### 📂 Destaque de Projeto
-
-<div align="center">
-  <a href="https://github.com/ncorreia773-netizen/projeto-alura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ncorreia773-netizen&repo=projeto-alura&theme=dark&bg_color=0a1128&border_color=0066ff&title_color=0066ff&text_color=c9c9c9&icon_color=0066ff" alt="projeto-alura"/>
-  </a>
-</div>
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ncorreia773-netizen&show_icons=true&theme=dark&bg_color=0a1128&title_color=0066ff&icon_color=0066ff&text_color=c9c9c9&border_color=0066ff" height="165" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncorreia773-netizen&layout=compact&theme=dark&bg_color=0a1128&title_color=0066ff&text_color=c9c9c9&border_color=0066ff" height="165" alt="Linguagens"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=ncorreia773-netizen&theme=dark&background=0a1128&ring=0066ff&fire=0066ff&currStreakLabel=0066ff&sideLabels=0066ff&dates=c9c9c9&stroke=0066ff&border=0066ff" alt="Streak"/>
-</div>
-
----
-
-### 📬 Contato
-
-<div align="center">
-  Sinta-se à vontade para entrar em contato comigo pelo e-mail:  
-  <code>ncorreia773@gmail.com</code>
-<img width="498" height="468" alt="fih-fish" src="https://github.com/user-attachments/assets/99e05a2f-8695-4949-9130-17fd08fbccce" />
-
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,100:0066FF&height=120&section=footer" width="100%" alt="Footer"/>
 </div>
